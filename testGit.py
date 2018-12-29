@@ -1,2 +1,2 @@
-print(Testing git...)
-print(done!)
+print("Testing git...")
+print("done!")
